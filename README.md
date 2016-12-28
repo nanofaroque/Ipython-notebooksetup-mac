@@ -16,6 +16,14 @@ bash MIni.......sh
 ```
 conda create -n yourenvname python=2.7
 ```
+# Change Environment to your new created
+1. Close your current terminal
+2. Open a new terminal
+3. Enter the command below
+```
+source activate yourenvname     #this will activate your environment
+```
+
 # Install packages you need
 ```
 conda install numpy   #it will install numpy
@@ -26,4 +34,8 @@ conda install ipython-notebook #it will install ipython-notebook
 ```
 pip install graphlab-create
 ```
-
+# Finish
+When your work is done, you have to deactivate the environment 
+```
+source deactivate yourenvname
+```
