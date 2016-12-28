@@ -3,8 +3,10 @@ Set up guidelines for ipython notebook set up with python 2.7 version step by st
 # Download miniconda
 1. http://conda.pydata.org/miniconda.html <br />
 This should be downloaded into your downloads folder. <br />
-2. Go to your download folder from terminal by
+2. Go to your download folder from terminal by <br />
+```
 cd Downloads
+```
 3. run the downloaded sh script Mini........sh
 bash MIni.......sh
 
