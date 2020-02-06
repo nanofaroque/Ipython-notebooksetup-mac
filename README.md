@@ -11,6 +11,9 @@ cd Downloads
 ```
 bash MIni.......sh
 ```
+4. After installation, you need to add conda to your profile, this is what I have added to my zshrc
+
+```export PATH=$HOME/miniconda3/bin:$PATH```
 
 # Create a new environment for different version of python
 ```
